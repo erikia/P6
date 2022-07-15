@@ -2,6 +2,8 @@
 Projet 6 : Développez une interface utilisateur pour une application web Python
 
 Ce projet a pour but de créer une application web (JustSteamIt) permettant de visualiser en temps réel un classement de films. 
+![JustSteamIt](https://user-images.githubusercontent.com/91466871/179319463-78d510df-f377-4bc7-9e26-b1eb6718e18c.jpg)
+
 
 # Processus
 ## API : OCMovies-API-EN-FR
@@ -20,6 +22,7 @@ L'application filtre les données en fonction des critères :
 ## Infomation
 La mise à jour des données doit se faire automatiquement. 
 Chaque film possède ces propres informations : Title, Genre, Year, Imdb Score, Director et Actors
+<img width="1434" alt="ModalBanner" src="https://user-images.githubusercontent.com/91466871/179320355-9e217a2f-8058-49bc-b60f-68d8b0d660ff.png">
 
 
 
